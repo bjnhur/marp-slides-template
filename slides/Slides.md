@@ -1,6 +1,7 @@
 ---
 marp: true
-theme: custom-default
+# theme: custom-default
+theme: gaia
 footer: 'https://example.com'
 ---
 
